@@ -89,7 +89,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "LSProgressIndicator/*.{h,m}"
+  s.source_files  = "LSProgressIndicator/LSProgressIndicator/*.{h,m}"
   #s.exclude_files = "LSProgressIndicator/LSProgressIndicator"
 
   # s.public_header_files = "Classes/**/*.h"
