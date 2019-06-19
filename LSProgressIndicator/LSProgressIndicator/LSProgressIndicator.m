@@ -7,6 +7,7 @@
 //
 
 #import "LSProgressIndicator.h"
+#import "CXLiveManger.h"
 
 @implementation LSProgressIndicator
 //兼容xib
